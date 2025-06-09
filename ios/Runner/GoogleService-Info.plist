@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>910209650050-91bt8mpikm8e7mfbgt185jd1bbvof95u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.910209650050-91bt8mpikm8e7mfbgt185jd1bbvof95u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJzyI17swOG3dA0CW0ChD3ofBGuBiih68</string>
+	<key>GCM_SENDER_ID</key>
+	<string>910209650050</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nodamngoodstudios.scribby4</string>
+	<key>PROJECT_ID</key>
+	<string>scribby4-5d3db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scribby4-5d3db.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:910209650050:ios:b3a4e49a0cdd79b12f939b</string>
+</dict>
+</plist>

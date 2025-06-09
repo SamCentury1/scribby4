@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "910209650050",
+    "project_id": "scribby4-5d3db",
+    "storage_bucket": "scribby4-5d3db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910209650050:android:4e94ffceb1b324872f939b",
+        "android_client_info": {
+          "package_name": "com.example.scribby4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910209650050-4tfpc4tmvkvf4b09t29fkjec1nt9vqh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJI1jvDvKcaGYSU0F1cwQDSQFbeW0Um3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910209650050-4tfpc4tmvkvf4b09t29fkjec1nt9vqh3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910209650050-91bt8mpikm8e7mfbgt185jd1bbvof95u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nodamngoodstudios.scribby4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910209650050:android:52f64326cf2cf49b2f939b",
+        "android_client_info": {
+          "package_name": "com.nodamngoodstudios.scribby4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910209650050-4tfpc4tmvkvf4b09t29fkjec1nt9vqh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJI1jvDvKcaGYSU0F1cwQDSQFbeW0Um3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910209650050-4tfpc4tmvkvf4b09t29fkjec1nt9vqh3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910209650050-91bt8mpikm8e7mfbgt185jd1bbvof95u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nodamngoodstudios.scribby4"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
